@@ -1,0 +1,3 @@
+<?
+echo "just for test";
+?>
